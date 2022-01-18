@@ -7,3 +7,8 @@ Given a log file data. We need to generate the report for how many disconnects,d
 # Tech used
 This cli tool is made using python.
 
+# Usage
+for setting up please make sure to run the setup script. 
+for regular usage you need not require to run the setup.py file you can directly run script.py file.
+For setup.py give src,destination directory paths. 
+For script.py give range inputs and Log_file containing all log results path. 
