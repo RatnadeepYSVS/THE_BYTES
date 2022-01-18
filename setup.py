@@ -5,7 +5,7 @@ from shutil import *
 src_path=input('src directory of log files path: ')
 pth=input('destination path to store log file data: ')
 src=os.listdir(src_path)
-data=src[:len(src)-2]
+data=src[:len(src)]
 data.sort(key=lambda x:int(x.split('.')[0]))
 file_data=[]
 s=0
