@@ -55,10 +55,10 @@ try:
             if (date>=startdate and month>=startmonth) and (date<=endate and month<=endmonth):
                 if disconnect_check is not None:
                     disconnects[computer]=disconnects.get(computer)+1
-            if drop_check is not None:
-                drops[computer]=drops.get(computer)+1
-            if avg_limit_check is not None:
-                avg_limits[computer]=avg_limits.get(computer)+1
+                if drop_check is not None:
+                    drops[computer]=drops.get(computer)+1
+                if avg_limit_check is not None:
+                    avg_limits[computer]=avg_limits.get(computer)+1
         except Exception as e:
             pass
     print("CALCULATED DISCONNECTS SUCCESSFULLY....")
