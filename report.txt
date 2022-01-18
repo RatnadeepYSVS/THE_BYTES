@@ -1,0 +1,59 @@
+REPORT RANGING FROM 01/01 - 31/12
+TOTAL NUMBER OF DISCONNECTS from 01/01-31/12:- 595
+COMPUTER NAME  DISCONNECTS
+APTOFFICE has made 97 disconnects.
+PELHAMLAPTOP has made 82 disconnects.
+BETHGARWICK has made 81 disconnects.
+OWNER-BC8810E49 has made 50 disconnects.
+MOODYLAPTOP has made 40 disconnects.
+APTTRUSSVILLE has made 38 disconnects.
+APTMOODY has made 36 disconnects.
+KCUTSHALL-PC has made 34 disconnects.
+FRONTOFFICE has made 27 disconnects.
+CHELLAPTOP2 has made 20 disconnects.
+APTPELHAM has made 15 disconnects.
+EMMETT-THINK has made 15 disconnects.
+FRONTOFFICEPELH has made 12 disconnects.
+FRONTDESK-PC has made 9 disconnects.
+LAPTOP2 has made 9 disconnects.
+COMPUTER2 has made 8 disconnects.
+COMPUTER1 has made 7 disconnects.
+APT has made 6 disconnects.
+PHOENIX has made 3 disconnects.
+CLAYTON-PC has made 3 disconnects.
+KARIPC has made 1 disconnects.
+NITIN has made 1 disconnects.
+585-0757 has made 1 disconnects.
+TOTAL NUMBER OF DROPS FROM 01/01-31/12:- 2050
+APTOFFICE has made 489 drops.
+KCUTSHALL-PC has made 480 drops.
+FRONTOFFICE has made 174 drops.
+CHELLAPTOP2 has made 150 drops.
+EMMETT-THINK has made 148 drops.
+MOODYLAPTOP has made 102 drops.
+APTPELHAM has made 99 drops.
+FRONTOFFICEPELH has made 86 drops.
+APTMOODY has made 68 drops.
+FRONTDESK-PC has made 61 drops.
+PHOENIX has made 54 drops.
+PELHAMLAPTOP has made 38 drops.
+APTTRUSSVILLE has made 34 drops.
+COMPUTER1 has made 24 drops.
+LAPTOP2 has made 10 drops.
+COMPUTER2 has made 8 drops.
+KARIPC has made 6 drops.
+TOOMASA-PC has made 6 drops.
+BETHGARWICK has made 5 drops.
+LONEWOLF has made 5 drops.
+OWNER-BC8810E49 has made 2 drops.
+JESSICA-PC has made 1 drops.
+TOTAL NUMBER OF AVG LIMITS FROM 01/01-31/12:- 8444
+KCUTSHALL-PC has mad 7343 avg limits.
+APTPELHAM has mad 298 avg limits.
+APTOFFICE has mad 231 avg limits.
+PHOENIX has mad 224 avg limits.
+FRONTOFFICEPELH has mad 196 avg limits.
+PELHAMLAPTOP has mad 90 avg limits.
+JESSICA-PC has mad 48 avg limits.
+KARIPC has mad 11 avg limits.
+OWNER-BC8810E49 has mad 3 avg limits.
