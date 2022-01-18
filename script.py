@@ -1,21 +1,4 @@
-"""
-CODE FOR READING ALL LOG FILES AND PLACING DATA IN A SINGLE FILE
-# from os.path import *
-# import os
-# from shutil import *
-# src_path='src directory of log files path'
-# src=os.listdir(src_path)
-# data=src[:len(src)-2]
-# data.sort(key=lambda x:int(x.split('.')[0]))
-# file_data=[]
-# s=0
-# for i in data:
-#     pth=f'what ever path you want to give'
-#     file_data.append(open(pth).read())
-# final_data="\n".join(file_data)
-# with open('ALL_LOGS.txt','w') as file:
-#     file.write(final_data)
-"""
+
 #REPORT GENERATION CODE
 from re import *
 from os import startfile
